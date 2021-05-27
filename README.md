@@ -1,5 +1,5 @@
 # hamburger-overlay-menu
-This is an Overlay Menu created using HTML, CSS. No Javascript has been use. Through this project I deep dived into css topics like animations, keyframes, transitions, properties like transform, etc. I got to learn a lot and the project was quite fun to develop.
+This is an Overlay Menu created using HTML, CSS. No Javascript has been use. Through this project I deep dived into CSS topics like Animations, Keyframes, Transitions, properties like Transform, etc. I got to learn a lot and the project was quite fun to develop.
 Feel free to get ideas.
 
 ## Developed By 
