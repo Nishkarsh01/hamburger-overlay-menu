@@ -6,7 +6,7 @@ Feel free to get ideas.
 > Nishkarsh Dubb
 
 ## Screenshots 📷
-![Website Screenshot 1](images/1.gif)
+![Website Screenshot 1](img/1.gif)
 
 
 ## Live Demo 
